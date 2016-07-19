@@ -1,0 +1,55 @@
+<html>
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<name> Abdi Mohamud role = Graduate </name>
+<address> Wembley</address>
+<mobile> 07931121265</mobile>
+<email> amohamud@spartaglobal.co</email>
+
+<current> 
+Sparta Global SDET Course
+Business Skills - Networking, Interview Skills, Time/Task Management, Communication, Bash Basics, Intro to the Project Environment, Presentation Skills, Business Analysis Basics, Tooling.
+
+Web Technology and Software Testing - Intro to Web Technology, Text Editors, Web Inspectors, Version Control with Git, Fundamentals of Testing, Testing through the Lifecycle, Test Levels, Test Dev and Design, Testing Techniques, Exploratory Testing, Web Testing, Performance Testing, Usability Testing.
+
+Web Technology and Software Testing - Intro to Mobile, Mobile Testing, Apple Testing, HTML, HTML Forms, Accessibility and Semantics, IA, CSS, Browser Differences, Responsive Web Design, XML.
+
+Agile - Waterfall, Agile Overview, User Stories, Scrum, The Backlog and Estimation, Retrospectives, Kanban, Agile Tooling, Continuous Delivery, Extreme Programming, Agile Presentations, The Spotify Model.
+
+Bash and Databases - Further Bash, Git Branching and PRs, Intro to Vim, Intro to Databases, Intro to SQL, Further SQL, Hadoop, Intro MongoDB.
+
+Automation - Selenium, Watir , Capybara, RSpec,SBE, Intro to Cucumber
+
+Ruby - Intro to Programming, Ruby Exercises, Object Orientated Ruby, TDD, Bundler and Rake, External Data, RegExp, Agile Testing,  Test Automation, Specification by Example, Stress Testing, Intro to JMeter.
+</current>
+
+<jobs> 
+Mechanical Technician at Tenpin for 11 months
+- Maintenance of GS pinsetter
+- Health and Safety checks
+- Diagnose and fix errors 
+- Assembling components
+
+Sales Assistant at JD Sports for 1 year and 11 months
+- Help customers with queries
+- Make sales
+- Hit targets
+
+Phone Agent at Call Centre for 6 months.
+- Take surveys on products/ services used
+
+</jobs>
+
+<education>
+
+
+Coventry University, achieved Beng(Hons) in Electronic Engineering. Core Modules included Advanced Electronics, Digital Systems, Communication Systems and Control and Instrumentation.
+
+Ealing and West London Colleges. Studied A level Mathematics, Chemistry, Biology and AS Govt and Politics.
+
+Wembley High Technology College, achieved 10 GCSEs including Double Award Science, Maths, English Language and English Literature
+
+</education>
+
+</html>
