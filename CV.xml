@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cv xml:lang="en-GB">
+<personal_details>
+  <name>Oliver Young</name>
+  <summary>A self-motivated and highly adaptive Philosophy and Linguistics graduate currently learning computing languages with a commitment to learn new techniques and offer creative solutions to problems.
+
+Have gained valuable knowledge and practice after having self taught OO languages like Java and web languages like HTML, CSS and using these language to create simple programs and websites with thoughts on how to improve code quality. Highly adaptable to newer tools and software's, for example being able to relate with other scripting languages. Being able to communicate technical problems to clients effectively. Having a tactful approach when dealing with the client’s IT problems.
+
+Actively looking for a career in web development, to broaden my knowledge using different web technologies; I also want to practice in dealing with different specifications from different clients with a respectable, ambitious and renowned company that can also offer development training.
+</summary>
+</personal_details>
+<lastthreejobs>
+  <name1>ENE Business ltd</name1>
+  <dates>2016</dates>
+  <description>As a Web Developer volunteer, the manager would like us to make a website for his business. We are given specifications on what features he wants us to create and then complete on a given deadline. Three of us developers can pick a card and choose what features we want to do . We also have the ability to agree or disagree on a particular design. </description>
+  <duties>Duties: 
+- Designing templates and wireframes 
+- Designing the wireframes via HTML 
+- Using HTML 5 for validations 
+- Designing using CSS3, Bootstrap, Jquery 
+- Configuring webpages to databases.
+- Iterate and add extra features  </duties>
+</lastthreejobs>
+<education>
+  <course>Computer Science</course>
+  <modules>
+Modules:
+Advanced Object Oriented
+Programming,
+Software Engineering,
+Web Development
+</modules>
+</education>
+</cv>
