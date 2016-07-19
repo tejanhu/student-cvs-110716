@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CV xml:lang="en-GB">
+	<personalDetails> 
+		<firstName>Alexander</firstName>
+		<Surname>Berry</Surname>
+		<dob>06-08-1995</dob>
+		<email>aberry@spartaglobal.co</email>
+		<phone>07807911112</phone>
+		<address>78 South Park Crescent</address>
+		<postcode>SE6 1JP</postcode>
+	</personalDetails>
+	<previosJobs>
+		<job>Embedded Software engineer intern</job>
+		<compamnyName>UOWI</compamnyName>
+		<job>IT Support</job>
+		<compamnyName>NHS</compamnyName>
+		<job>Charity Fundrasier</job>
+		<compamnyName>Listen</compamnyName>
+	</previosJobs>
+	<education>
+		<name>Conventry University</name>
+		<degree>Computer Hardware and Software Engoneering</degree>
+		<grade>2:1</grade>
+		<modules>Android app development,iPhone app devellopment, Embedded microprocessors, Object Oriented Software, Network Systems Archictecture, Operating Systems, Security and Network</modules>
+		<dissertaionProjectName> Shipping Container Placement and Management </dissertaionProjectName>
+		<dissertaionProjectDescription> Simulation where agents would move around a site and pick up randomly generated shipping containers and place them in a certain location based on the agents weight,type and export date.The agent would have to move around the area and avoid collisions with other agents whilst working out the shortest path to its goal using the A* pathfinding algorithm.The simulation was programmed in C# running in  the unity game engine.</dissertaionProjectDescription>
+		<name>Haberdashers' Askes Hatcham College</name>
+		<aLevels>Physcis,Chemistry,Maths</aLevels>
+	</education>
+</CV>
+
+
