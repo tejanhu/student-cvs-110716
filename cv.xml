@@ -1,0 +1,43 @@
+<cv>
+    <person>
+        <name>Daryll</name>
+        <lastname>Clarke</lastname>
+        <address>29 Sancroft Close</address>
+        <city>London</city>
+        <postcode>NW2 6NT</postcode>
+        <contact>
+            <phone>07756736737</phone>
+            <email>daryllclarke@hotmail.co.uk</email>
+        </contact>
+    </person>
+    
+    <work>
+        <job>
+            <title>Technical Solutions Engineer</title>
+            <periodbegin>01/06/2015</periodbegin>
+            <periodend>04/07/2016</periodend>
+            <company>Kent CCTV &163; Data Limited.</company>
+            <desctiption>Assisting clients with troubleshooting issues in existing IP CCTV setups. Provisioning and delivering installations for new and potential clients. Maintaining a problem free environment for our clients by routinely managing existing installations. Maintaining the website and responsible for creating marketing material and upholding brand standards.
+</desctiption> 
+        </job>
+        <job>
+            <title>Technical Solutions Engineer</title>
+            <periodbegin>01/06/2015</periodbegin>
+            <periodend>04/07/2016</periodend>
+            <company>Thames Water</company>
+            <desctiption>Working on a sensitive security deployment.</desctiption> 
+        </job>
+        <job>
+            <title>Junior Developer</title>
+            <periodbegin>09/06/2014</periodbegin>
+            <periodend>09/06/2015</periodend>
+            <company>Thames Water</company>
+            <desctiption>Working with Adobe Photoshop, HTML, CSS, JavaScript, MySQL &163; Python. Designing, developing and creating new websites. Implementing new ideas into new and existing software to speed up workflow
+</desctiption> 
+        </job>
+        <education>
+            <location>London Metropolitan University</location>
+            <course>3D Modelling and Animation</course>
+        </education>
+    </work>
+</cv>
