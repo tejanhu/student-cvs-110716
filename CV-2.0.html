@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <head>
     <meta charset="utf-8" />
     <title>Alexander Berry CV</title>
 </head>
 
 <body>
-    <header>
+    <header role=banner>
         <h1>Curriculum Vitae</h1>
     </header>
     <hr>
@@ -21,7 +20,8 @@
             <b>Alexander Berry</b><br/>06-08-1995<br/>07807911112<br/><a href="mailto:aberry@spartaglobal.co">aberry@spartaglobal.co</a><br/>78
             South Park Crescent<br/>SE6 1JP<br/>
         </article>
-        <article class="summary">
+        <!-- Summary -->
+        <article role=summary>
             <p>
                 <header>
                     <h2>Summary</h2>
@@ -32,8 +32,8 @@
                 to a high standard within strict deadlines.
             </p>
         </article>
-
-        <article class="jobs">
+        <!-- Jobs -->
+        <article role=jobList>
             <header>
                 <h2>Previous Jobs</h2>
             </header>
@@ -65,39 +65,44 @@
                 </ul>
             </p>
         </article>
-        <article class="eduation">
+        <!-- Education -->
+        <article role=educationList>
             <header>
                 <h2>Education</h2>
             </header>
             <p>
-                <strong>Conventry University</strong><br/><em>Computer Hardware and Software Engoneering (Upper Second Class Honours)</em><br/>Modules:
-                <select name="Modules" id="Modules">
+                <strong>Conventry University</strong><br/><em>Computer Hardware and Software Engoneering (Upper Second Class Honours)</em><br/>
+                <label for="modules">Modules:</label>
+                <select name="modules" id="modules">
  					<option value="iPhone app devellopment">iPhone app devellopment</option>
 					<option value="Android app development">Android app development</option>
-  					<option value="Embedded microprocessors">Embedded microprocessors<</option>
+  					<option value="Embedded microprocessors">Embedded microprocessors</option>
   					<option value="Network Systems Archictecture">Network Systems Archictecture</option>
 					<option value="Object Oriented Software">Object Oriented Software</option>
 					<option value="Security and Network Managment">Security and Network Managment</option>
 					<option value="Operating Systems">Operating Systems</option>
 				</select>
-                <br/>Projects:
-                <select name="Projects" id="Projects">
- 					<option value="Shipping Conatiner Management Simuation">Shipping Conatiner Management Simuation</option>
-					<option value="Server Managment GUI">Server Managment GUI</option>
-  					<option value="iPone and Android cross platform weather app">iPone and Android cross platform weather app</option>
-  					<option value="Robot with the abilty to move around an obstacle course">Robot with the abilty to move around an obstacle course</option>
+                <br/>
+                <label for="projects">Projects:</label>
+                <select name="projects" id="projects">
+ 					<option value="Shipping Conatiner Management Simuation ">Shipping Conatiner Management Simuation</option>
+					<option value="Server Managment GUI ">Server Managment GUI</option>
+  					<option value="iPone and Android cross platform weather app ">iPone and Android cross platform weather app</option>
+  					<option value="Robot with the abilty to move around an obstacle course ">Robot with the abilty to move around an obstacle course</option>
 				</select>
             </p>
             <p>
-                <b>Haberdashers' Askes Hatcham College</b><br/>A Levels:
+                <b>Haberdashers' Askes Hatcham College</b><br/>
+                <label for="aLevels">A Levels:</label>
                 <select name="aLevels" id="aLevels">
- 					<option value="Physics">Physics</option>
-					<option value="Chemistry">Chemistry</option>
-  					<option value="Maths">Maths/option>
+ 					<option value="Physics ">Physics</option>
+					<option value="Chemistry ">Chemistry</option>
+  					<option value="Maths ">Maths</option>
 				</select>
             </p>
         </article>
     </section>
+    <!-- Should be to the left -->
     <aside>
         <section>
             <ul>
@@ -115,7 +120,7 @@
                 <legend><b>Contact</b></legend>
                 <p>
                     <label for="name">Name:</label>
-                    <input type="text" name="name" id="name" value="" />
+                    <input type="text" name="name" id="name" value=" " />
                 </p>
                 <p>
                     <label for="email">Email:</label>
@@ -123,7 +128,7 @@
                 </p>
                 <p>
                     <label for="address">Address:</label>
-                    <input type="text" name="address" id="address" value="" />
+                    <input type="text" name="address" id="address" value=" " />
                 </p>
 
                 <p>
@@ -131,8 +136,8 @@
                     <textarea cols="40" rows="8" name="message" id="message"></textarea>
                 </p>
                 <p>
-                    <input type="submit" value="Submit" />
-                </p>
+     					<input type="submit" value="Submit"/>
+    			</p>
             </fieldset>
         </form>
         Copyright 2016
