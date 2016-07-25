@@ -1,0 +1,58 @@
+.container{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+ul.top_bar >li {
+	float: left;
+	margin:30px;
+	list-style: none;
+	min-width: 90px;
+}
+.header{
+	background-color: #ffffe6;
+}
+.top_bar{
+	min-height: 150px;
+}
+.align{
+	display: block;
+}
+ 
+
+ ul.profile >li {
+	float: left;
+	margin:30px;
+	list-style: none;
+	width: 250px;
+
+}
+.profile{
+	min-width: 90px;
+	min-height: 150px;
+}
+.midContent{
+	min-height: 150px;
+}
+.content{
+	background-color:#ffffe6;
+	height: 480px;
+	padding: 10px 10px;
+}
+h4{
+	font-weight: 300;
+}
+
+.portfolio{
+	background-color:#ffffe6;
+
+}
+
+.contactHussein{
+	background-color:#ffffe6;
+}
+
+.bottom_bar{
+	background-color:#ffffe6;
+
+}
