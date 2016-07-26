@@ -1,0 +1,32 @@
+ul.top_bar >li {
+	float: left;
+	margin:30px;
+	list-style: none;
+	min-width: 90px;
+}
+.top_bar{
+	min-height: 150px;
+}
+ ul.profile >li {
+	float: left;
+	margin:30px;
+	list-style: none;
+	width: 250px;
+
+}
+.portfolio{
+	margin-left: 10px;
+}
+
+.profile{
+	font-family: "Robotic";
+}
+
+.bottom_bar{
+	padding-top: 470px;
+	align-content: center;
+	margin-right: 100px;
+}
+.w3-row-padding{
+	background-color:#2196F3;
+	}
